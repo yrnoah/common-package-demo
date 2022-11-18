@@ -1,0 +1,28 @@
+{
+  "name": "switch-web-packages",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "lerna run prepare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:CompanyName/space-on-demand1/switch-web-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@commitlint/config-lerna-scopes": "^11.0.0",
+    "husky": "^4.3.6",
+    "lerna": "^3.22.1"
+  },
+  "sideEffects": false
+}

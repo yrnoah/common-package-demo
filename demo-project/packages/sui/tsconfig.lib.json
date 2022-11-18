@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "noEmit": false,
+    "outDir": "lib",
+    "declaration": true
+  },
+  "include": [
+    "src/components",
+    "src/index.ts",
+    "src/**/*.d.ts",
+  ],
+  "exclude": [
+    "src/components/**/*.stories.tsx"
+  ]
+}

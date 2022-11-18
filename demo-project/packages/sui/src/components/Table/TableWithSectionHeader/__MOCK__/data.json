@@ -1,0 +1,1670 @@
+[
+  {
+      "order": {
+          "id": "12112270043",
+          "createTime": "2021-12-27T08:39:18Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1179,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "60c9b2155252645c8285b4f5",
+          "capacity": 10,
+          "type": "Desk",
+          "name": "Test Desk 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Confirmation Booking Space TWO",
+          "spaceId": "60c9b1675252645c8285b4f4",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202106/16/382E8B48CCF1485B85FF2719EB2131FC.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-12-27T08:39:17Z",
+          "checkOutTime": "2021-12-28T04:39:52Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111190008",
+          "createTime": "2021-11-19T03:42:08Z",
+          "orderStatus": "Completed",
+          "actualAmount": 288,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60f7f3a6e6fcab71963b4d3c",
+          "countryCode": "+86",
+          "mobile": "****9700"
+      },
+      "inventory": {
+          "id": "6142cb5f134df04fe63dc022",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "walk-in booth02",
+          "city": "SG-SIN",
+          "spaceName": "Space for Junnan",
+          "spaceId": "612c6547626c58505af33cc4",
+          "providerId": "612c574b626c58505af33cc3",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202109/16/F759CAA31C65454486072D5FED7E6C2E.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-19T03:42:08Z",
+          "checkOutTime": "2021-11-19T08:30:03Z",
+          "checkOutMethod": "Auto"
+      }
+  },
+  {
+      "order": {
+          "id": "12111080002",
+          "createTime": "2021-11-08T03:17:44Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_610a69525c86ea245c973128",
+          "countryCode": "+86",
+          "mobile": "****9999"
+      },
+      "inventory": {
+          "id": "5f4f142a62ce8f6b2ebf2d28",
+          "capacity": 29,
+          "type": "Desk",
+          "name": "Hot Desk Area",
+          "city": "SG-SIN",
+          "spaceName": "120 Robinson Road",
+          "spaceId": "5f4f127862ce8f6b2ebf2d1a",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/space/ROB-1.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-08T03:17:43Z",
+          "checkOutTime": "2021-11-08T03:18:02Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111050050",
+          "createTime": "2021-11-05T07:44:25Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_610a69525c86ea245c973128",
+          "countryCode": "+86",
+          "mobile": "****9999"
+      },
+      "inventory": {
+          "id": "5f4f142a62ce8f6b2ebf2d28",
+          "capacity": 29,
+          "type": "Desk",
+          "name": "Hot Desk Area",
+          "city": "SG-SIN",
+          "spaceName": "120 Robinson Road",
+          "spaceId": "5f4f127862ce8f6b2ebf2d1a",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/space/ROB-1.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-05T07:44:24Z",
+          "checkOutTime": "2021-11-05T07:44:38Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111040047",
+          "createTime": "2021-11-04T08:13:49Z",
+          "orderStatus": "Completed",
+          "actualAmount": 20567,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-04T08:13:48Z",
+          "checkOutTime": "2021-11-18T15:00:01Z",
+          "checkOutMethod": "Auto"
+      }
+  },
+  {
+      "order": {
+          "id": "12111040042",
+          "createTime": "2021-11-04T07:55:17Z",
+          "orderStatus": "Completed",
+          "actualAmount": 6,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_614433b12fc16d6f1d845d62",
+          "countryCode": "+86",
+          "mobile": "****7007",
+          "name": "开启"
+      },
+      "inventory": {
+          "id": "6180f38e0e328f07f00d5778",
+          "capacity": 4,
+          "type": "Booth",
+          "name": "nnnnnttt",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/02/ACB988A7AF42443291C9C94709F20BAA.png"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-04T07:55:17Z",
+          "checkOutTime": "2021-11-04T07:55:44Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111040041",
+          "createTime": "2021-11-04T07:54:50Z",
+          "orderStatus": "Completed",
+          "actualAmount": 6,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_614433b12fc16d6f1d845d62",
+          "countryCode": "+86",
+          "mobile": "****7007",
+          "name": "开启"
+      },
+      "inventory": {
+          "id": "6180f38e0e328f07f00d5778",
+          "capacity": 4,
+          "type": "Booth",
+          "name": "nnnnnttt",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/02/ACB988A7AF42443291C9C94709F20BAA.png"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-04T07:54:49Z",
+          "checkOutTime": "2021-11-04T07:55:01Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111040040",
+          "createTime": "2021-11-04T07:51:36Z",
+          "orderStatus": "Completed",
+          "actualAmount": 6,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_614433b12fc16d6f1d845d62",
+          "countryCode": "+86",
+          "mobile": "****7007",
+          "name": "开启"
+      },
+      "inventory": {
+          "id": "6180f38e0e328f07f00d5778",
+          "capacity": 4,
+          "type": "Booth",
+          "name": "nnnnnttt",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/02/ACB988A7AF42443291C9C94709F20BAA.png"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-04T07:51:35Z",
+          "checkOutTime": "2021-11-04T07:51:49Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111040036",
+          "createTime": "2021-11-04T07:42:41Z",
+          "orderStatus": "Completed",
+          "actualAmount": 6,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_614433b12fc16d6f1d845d62",
+          "countryCode": "+86",
+          "mobile": "****7007",
+          "name": "开启"
+      },
+      "inventory": {
+          "id": "6180f38e0e328f07f00d5778",
+          "capacity": 4,
+          "type": "Booth",
+          "name": "nnnnnttt",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/02/ACB988A7AF42443291C9C94709F20BAA.png"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-04T07:42:41Z",
+          "checkOutTime": "2021-11-04T07:42:52Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111040011",
+          "createTime": "2021-11-04T05:41:33Z",
+          "orderStatus": "Completed",
+          "actualAmount": 12,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_6182413c13fd9702bbb2cfb5",
+          "countryCode": "+86",
+          "mobile": "****6366"
+      },
+      "inventory": {
+          "id": "6180f38e0e328f07f00d5778",
+          "capacity": 4,
+          "type": "Booth",
+          "name": "nnnnnttt",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/02/ACB988A7AF42443291C9C94709F20BAA.png"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-04T05:41:33Z",
+          "checkOutTime": "2021-11-04T05:42:39Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030025",
+          "createTime": "2021-11-03T03:52:59Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_610a69525c86ea245c973128",
+          "countryCode": "+86",
+          "mobile": "****9999"
+      },
+      "inventory": {
+          "id": "5f6c3a0eb1ff080eb5fcb0f3",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "No.105",
+          "city": "SG-SIN",
+          "spaceName": "Northpoint City",
+          "spaceId": "5f6c3626b1ff080eb5fcb0e1",
+          "providerId": "FRASERS",
+          "coverPicture": "https://oss.switch.site/space/northpoint-city-2.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T03:52:59Z",
+          "checkOutTime": "2021-11-03T03:53:12Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030023",
+          "createTime": "2021-11-03T03:49:37Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60eebaa472442d47ccec0522",
+          "countryCode": "+86",
+          "mobile": "****7895",
+          "name": "Ltgg"
+      },
+      "inventory": {
+          "id": "5f6c3a0eb1ff080eb5fcb0f3",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "No.105",
+          "city": "SG-SIN",
+          "spaceName": "Northpoint City",
+          "spaceId": "5f6c3626b1ff080eb5fcb0e1",
+          "providerId": "FRASERS",
+          "coverPicture": "https://oss.switch.site/space/northpoint-city-2.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T03:49:37Z",
+          "checkOutTime": "2021-11-03T03:49:49Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030020",
+          "createTime": "2021-11-03T03:37:44Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60eebaa472442d47ccec0522",
+          "countryCode": "+86",
+          "mobile": "****7895",
+          "name": "Ltgg"
+      },
+      "inventory": {
+          "id": "5f6c3a0eb1ff080eb5fcb0f3",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "No.105",
+          "city": "SG-SIN",
+          "spaceName": "Northpoint City",
+          "spaceId": "5f6c3626b1ff080eb5fcb0e1",
+          "providerId": "FRASERS",
+          "coverPicture": "https://oss.switch.site/space/northpoint-city-2.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T03:37:43Z",
+          "checkOutTime": "2021-11-03T03:38:34Z",
+          "checkOutMethod": "QR Code"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030010",
+          "createTime": "2021-11-03T02:32:04Z",
+          "orderStatus": "Completed",
+          "actualAmount": 143,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T02:32:04Z",
+          "checkOutTime": "2021-11-03T04:54:25Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030009",
+          "createTime": "2021-11-03T02:31:20Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T02:31:20Z",
+          "checkOutTime": "2021-11-03T02:31:47Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030006",
+          "createTime": "2021-11-03T02:28:30Z",
+          "orderStatus": "Completed",
+          "actualAmount": 3,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T02:28:30Z",
+          "checkOutTime": "2021-11-03T02:30:49Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030005",
+          "createTime": "2021-11-03T02:27:24Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T02:27:24Z",
+          "checkOutTime": "2021-11-03T02:28:13Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030004",
+          "createTime": "2021-11-03T02:26:42Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T02:26:42Z",
+          "checkOutTime": "2021-11-03T02:27:09Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111030003",
+          "createTime": "2021-11-03T02:26:17Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-03T02:26:17Z",
+          "checkOutTime": "2021-11-03T02:26:31Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020063",
+          "createTime": "2021-11-02T09:20:31Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1023,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T09:20:31Z",
+          "checkOutTime": "2021-11-02T10:30:00Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020061",
+          "createTime": "2021-11-02T09:18:09Z",
+          "orderStatus": "Completed",
+          "actualAmount": 3,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T09:18:09Z",
+          "checkOutTime": "2021-11-02T09:20:10Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020058",
+          "createTime": "2021-11-02T09:06:55Z",
+          "orderStatus": "Completed",
+          "actualAmount": 12,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T09:06:55Z",
+          "checkOutTime": "2021-11-02T09:18:00Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020057",
+          "createTime": "2021-11-02T09:04:10Z",
+          "orderStatus": "Completed",
+          "actualAmount": 3,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T09:04:10Z",
+          "checkOutTime": "2021-11-02T09:06:33Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020056",
+          "createTime": "2021-11-02T09:03:31Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T09:03:31Z",
+          "checkOutTime": "2021-11-02T09:04:02Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020049",
+          "createTime": "2021-11-02T08:54:32Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6109003a2a509f5fe0fd762e",
+          "countryCode": "+65",
+          "mobile": "****7466"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:54:32Z",
+          "checkOutTime": "2021-11-02T08:54:43Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020048",
+          "createTime": "2021-11-02T08:38:41Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:38:41Z",
+          "checkOutTime": "2021-11-02T08:39:13Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020047",
+          "createTime": "2021-11-02T08:37:33Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "603c667e3e51b30878435bbc",
+          "countryCode": "+65",
+          "mobile": "****7235"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:37:33Z",
+          "checkOutTime": "2021-11-02T08:38:33Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020045",
+          "createTime": "2021-11-02T08:16:49Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60f7ef75e6fcab71963b4d35",
+          "countryCode": "+86",
+          "mobile": "****4133"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:16:49Z",
+          "checkOutTime": "2021-11-02T08:16:57Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020044",
+          "createTime": "2021-11-02T08:16:18Z",
+          "orderStatus": "Completed",
+          "actualAmount": 6,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_614433b12fc16d6f1d845d62",
+          "countryCode": "+86",
+          "mobile": "****7007",
+          "name": "开启"
+      },
+      "inventory": {
+          "id": "6180f38e0e328f07f00d5778",
+          "capacity": 4,
+          "type": "Booth",
+          "name": "nnnnnttt",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/02/ACB988A7AF42443291C9C94709F20BAA.png"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:16:17Z",
+          "checkOutTime": "2021-11-02T08:16:27Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020043",
+          "createTime": "2021-11-02T08:14:22Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "606192e583cf8a489e6d5128",
+          "countryCode": "+86",
+          "mobile": "****9700",
+          "name": "Junnan1"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:14:22Z",
+          "checkOutTime": "2021-11-02T08:14:31Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020034",
+          "createTime": "2021-11-02T08:00:16Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61122c9b566a97608c5822cd",
+          "countryCode": "+65",
+          "mobile": "****9767"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T08:00:16Z",
+          "checkOutTime": "2021-11-02T08:00:22Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020029",
+          "createTime": "2021-11-02T07:42:02Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61122c9b566a97608c5822cd",
+          "countryCode": "+65",
+          "mobile": "****9767"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T07:42:02Z",
+          "checkOutTime": "2021-11-02T07:42:09Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020009",
+          "createTime": "2021-11-02T03:31:30Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-6100ff77905e491bbdbe3344",
+          "countryCode": "+86",
+          "mobile": "****7235"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T03:31:30Z",
+          "checkOutTime": "2021-11-02T03:31:41Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020006",
+          "createTime": "2021-11-02T03:22:12Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "610ce98b138371557c44620f",
+          "countryCode": "+65",
+          "mobile": "****2125"
+      },
+      "inventory": {
+          "id": "5f6b1ca0f1dddb37f065952c",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "No.090",
+          "city": "SG-SIN",
+          "spaceName": "Waterway Point",
+          "spaceId": "5f6b1a83f1dddb37f0659524",
+          "providerId": "FRASERS",
+          "coverPicture": "https://oss.switch.site/space/waterway-point-2.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T03:22:12Z",
+          "checkOutTime": "2021-11-02T03:23:16Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12111020004",
+          "createTime": "2021-11-02T03:10:19Z",
+          "orderStatus": "Completed",
+          "actualAmount": 2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "610ce98b138371557c44620f",
+          "countryCode": "+65",
+          "mobile": "****2125"
+      },
+      "inventory": {
+          "id": "617fb824f150bc3853d2d684",
+          "capacity": 1,
+          "type": "Booth",
+          "name": "test booth 01",
+          "city": "SG-SIN",
+          "spaceName": "Jack Booth Space",
+          "spaceId": "617fb7aff150bc3853d2d683",
+          "providerId": "60ebd97b258e070f12234ec5",
+          "coverPicture": "https://oss-staging.switchspace.cn/upload/202111/01/6D13BB8045F6406196C6ADDD654ADBC5.jpeg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-11-02T03:10:19Z",
+          "checkOutTime": "2021-11-02T03:11:59Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12110260004",
+          "createTime": "2021-10-26T03:39:06Z",
+          "orderStatus": "Completed",
+          "actualAmount": 8.2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60efa0c372442d47ccec0575",
+          "countryCode": "+86",
+          "mobile": "****1566"
+      },
+      "inventory": {
+          "id": "5f4f142a62ce8f6b2ebf2d28",
+          "capacity": 29,
+          "type": "Desk",
+          "name": "Hot Desk Area",
+          "city": "SG-SIN",
+          "spaceName": "120 Robinson Road",
+          "spaceId": "5f4f127862ce8f6b2ebf2d1a",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/space/ROB-1.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-10-26T03:39:05Z",
+          "checkOutTime": "2021-10-26T07:18:21Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070113",
+          "createTime": "2021-09-07T09:48:07Z",
+          "orderStatus": "Completed",
+          "actualAmount": 2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6110c5ca2281e868a6e243ff",
+          "countryCode": "+65",
+          "mobile": "****9556"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:48:07Z",
+          "checkOutTime": "2021-09-07T09:48:16Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070112",
+          "createTime": "2021-09-07T09:47:19Z",
+          "orderStatus": "Completed",
+          "actualAmount": 2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "6110c5ca2281e868a6e243ff",
+          "countryCode": "+65",
+          "mobile": "****9556"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:47:18Z",
+          "checkOutTime": "2021-09-07T09:47:54Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070111",
+          "createTime": "2021-09-07T09:46:33Z",
+          "orderStatus": "Completed",
+          "actualAmount": 23,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_61372de72fc16d6f1d845a1b",
+          "countryCode": "+86",
+          "mobile": "****5555"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:46:33Z",
+          "checkOutTime": "2021-09-07T09:58:47Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070109",
+          "createTime": "2021-09-07T09:45:32Z",
+          "orderStatus": "Completed",
+          "actualAmount": 27,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60fe26c9905e491bbdbe31ca",
+          "countryCode": "+86",
+          "mobile": "****9767"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:45:32Z",
+          "checkOutTime": "2021-09-07T10:00:05Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070101",
+          "createTime": "2021-09-07T09:27:10Z",
+          "orderStatus": "Completed",
+          "actualAmount": 423,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61372f952fc16d6f1d845a2a",
+          "countryCode": "+65",
+          "mobile": "****7978"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:27:10Z",
+          "checkOutTime": "2021-09-07T13:00:00Z",
+          "checkOutMethod": "Auto"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070098",
+          "createTime": "2021-09-07T09:17:30Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn_61372de72fc16d6f1d845a1b",
+          "countryCode": "+86",
+          "mobile": "****5555"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:17:29Z",
+          "checkOutTime": "2021-09-07T09:18:58Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070095",
+          "createTime": "2021-09-07T09:12:45Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61370db32fc16d6f1d8459d9",
+          "countryCode": "+65",
+          "mobile": "****7979"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:12:45Z",
+          "checkOutTime": "2021-09-07T09:14:32Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070090",
+          "createTime": "2021-09-07T09:06:52Z",
+          "orderStatus": "Completed",
+          "actualAmount": 3,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61370db32fc16d6f1d8459d9",
+          "countryCode": "+65",
+          "mobile": "****7979"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T09:06:52Z",
+          "checkOutTime": "2021-09-07T09:09:07Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070089",
+          "createTime": "2021-09-07T08:53:59Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60eebaa472442d47ccec0522",
+          "countryCode": "+86",
+          "mobile": "****7895",
+          "name": "Ltgg"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T08:53:59Z",
+          "checkOutTime": "2021-09-07T08:55:28Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070088",
+          "createTime": "2021-09-07T08:53:50Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61370db32fc16d6f1d8459d9",
+          "countryCode": "+65",
+          "mobile": "****7979"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T08:53:50Z",
+          "checkOutTime": "2021-09-07T08:54:51Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070084",
+          "createTime": "2021-09-07T08:20:41Z",
+          "orderStatus": "Completed",
+          "actualAmount": 1,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61370db32fc16d6f1d8459d9",
+          "countryCode": "+65",
+          "mobile": "****7979"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T08:20:41Z",
+          "checkOutTime": "2021-09-07T08:22:24Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070083",
+          "createTime": "2021-09-07T08:20:07Z",
+          "orderStatus": "Completed",
+          "actualAmount": 2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "cn-60eebaa472442d47ccec0522",
+          "countryCode": "+86",
+          "mobile": "****7895",
+          "name": "Ltgg"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T08:20:07Z",
+          "checkOutTime": "2021-09-07T08:20:38Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070082",
+          "createTime": "2021-09-07T08:18:55Z",
+          "orderStatus": "Completed",
+          "actualAmount": 2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61370db32fc16d6f1d8459d9",
+          "countryCode": "+65",
+          "mobile": "****7979"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T08:18:55Z",
+          "checkOutTime": "2021-09-07T08:19:14Z",
+          "checkOutMethod": "Remote"
+      }
+  },
+  {
+      "order": {
+          "id": "12109070081",
+          "createTime": "2021-09-07T08:16:23Z",
+          "orderStatus": "Completed",
+          "actualAmount": 2,
+          "currencySign": "$"
+      },
+      "user": {
+          "id": "61370db32fc16d6f1d8459d9",
+          "countryCode": "+65",
+          "mobile": "****7979"
+      },
+      "inventory": {
+          "id": "606c3a21d555331d3d3d7040",
+          "capacity": 200,
+          "type": "Desk",
+          "name": "test",
+          "city": "SG-SIN",
+          "spaceName": "Marina One xiaoyu",
+          "spaceId": "606c39fbd555331d3d3d703f",
+          "providerId": "JUSTCO",
+          "coverPicture": "https://oss.switch.site/upload/202104/06/DB99743292CE46E9B3748C900A1DB2BB.jpg"
+      },
+      "payment": {
+          "paymentStatus": "Paid"
+      },
+      "walkIn": {
+          "checkInTime": "2021-09-07T08:16:22Z",
+          "checkOutTime": "2021-09-07T08:16:33Z",
+          "checkOutMethod": "Remote"
+      }
+  }
+]

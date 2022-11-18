@@ -1,0 +1,80 @@
+stages:
+  - install
+  - test
+  - publish
+image: node:14.17.0
+
+default:
+  tags:
+    - dockermachine
+    - reinvent
+    - autoscaling
+
+cache:
+  key: "YARN_PACKAGE_CACHE"
+  policy: pull-push
+  paths:
+    - .yarn-cache
+  untracked: true
+
+cache: &global_cache
+  key:
+    files:
+      - yarn.lock
+      - packages/**/yarn.lock
+  policy: pull
+  untracked: true
+  paths:
+    - node_modules
+    - packages/**/node_modules
+
+
+before_script:
+  - yarn global add lerna --cache-folder .yarn-cache
+  - npm config set //gitlab.com/api/v4/projects/xxxxxxxxxx/packages/npm/:_authToken ${CI_JOB_TOKEN}
+
+install:
+  stage: install
+  only:
+    - branches
+  script:
+    - lerna bootstrap
+  cache:
+    <<: *global_cache
+    policy: pull-push
+
+lint:
+  stage: test
+  only:
+    - branches
+  script:
+    - lerna run lint --stream
+
+test:
+  stage: test
+  only:
+    - branches
+  script:
+    - lerna run test --stream
+
+publish_to_gitlab:
+  stage: publish
+  only:
+    - main
+  when: manual
+  script:
+    - npx lerna publish from-package --yes
+
+pages:
+  stage: test
+  when: manual
+  needs: 
+    - install
+  script:
+    - cd packages/sui
+    - npx build-storybook --output-dir ../../public
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

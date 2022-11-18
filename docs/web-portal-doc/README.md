@@ -37,7 +37,7 @@ This proejct follow this [Web Architecture](https://justoffice.sharepoint.com/:w
 
 - `/components`:
   - Common components in this project;
-  - Should move all components, those can be used across projects, to [switch-web-packages](https://gitlab.com/REInventVenturesPteLtd/space-on-demand1/switch-web-components). Leave other project custom components still be here. (In Progress)
+  - Should move all components, those can be used across projects, to [switch-web-packages](https://gitlab.com/CompanyName/space-on-demand1/switch-web-components). Leave other project custom components still be here. (In Progress)
 - `/constants`:
   - Some project common constants, such as product type, navigator, lang type...
 - `/fonts`:
@@ -67,7 +67,7 @@ This proejct follow this [Web Architecture](https://justoffice.sharepoint.com/:w
   - Prefer to use package [unstated-next](https://github.com/jamiebuilds/unstated-next) to create store. If you want to introduce some other management tool package, please feel free to create Merge Request and ask others to discuss.
 - `/styles`:
   - Some common styles, such as colors, icons, font styles...
-  - Also can move them to common package [switch-web-packages](https://gitlab.com/REInventVenturesPteLtd/space-on-demand1/switch-web-components/-/tree/main/packages/sui/src/styles) folder.
+  - Also can move them to common package [switch-web-packages](https://gitlab.com/CompanyName/space-on-demand1/switch-web-components/-/tree/main/packages/sui/src/styles) folder.
 - `/test-utils`: To be done
 - `/typings`:
   - Project global type definition, if you want to add some type definition to global variable like Window, you can put them here.
@@ -90,8 +90,8 @@ This proejct follow this [Web Architecture](https://justoffice.sharepoint.com/:w
 
 ## Common Packages
 
-- [switch-web-packages](https://gitlab.com/REInventVenturesPteLtd/space-on-demand1/switch-web-components)
-- [demo](https://reinventventurespteltd.gitlab.io/space-on-demand1/switch-web-components)
+- [switch-web-packages](https://gitlab.com/CompanyName/space-on-demand1/switch-web-components)
+- [demo](https://CompanyName.gitlab.io/space-on-demand1/switch-web-components)
 
 # Create New Project
 
@@ -121,7 +121,7 @@ LOKALISE_TOKEN = xxx
 yarn lang:sync
 ```
 
-三：组件库 [switch-web-packages](https://gitlab.com/REInventVenturesPteLtd/space-on-demand1/switch-web-components) 的国际化设置，请通过引用 `react-intl` 中的 hook `useIntl` 引入工具，主项目会扫描公共组件库的文件并抽取。
+三：组件库 [switch-web-packages](https://gitlab.com/CompanyName/space-on-demand1/switch-web-components) 的国际化设置，请通过引用 `react-intl` 中的 hook `useIntl` 引入工具，主项目会扫描公共组件库的文件并抽取。
 
 # Others
 

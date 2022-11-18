@@ -19,7 +19,7 @@
 - Git Flow
 Develop:
 - Copy project from Gitlab
-- If the common package (`@REInventVenturesPteLtd/*`) is listed in the package.json of the project, please following the package doc, create a personal access token and run ` npm config set //gitlab.com/api/v4/projects/31946855/packages/npm/:_authToken "TOKEN_YOU_CREATED" `
+- If the common package (`@CompanyName/*`) is listed in the package.json of the project, please following the package doc, create a personal access token and run ` npm config set //gitlab.com/api/v4/projects/xxxxxx/packages/npm/:_authToken "TOKEN_YOU_CREATED" `
 - Go to the project and run `yarn` to install node modules.
 - Sync lokalise translation (if needed): create .env.local in project, put your lokalise token (profile) into it, run `yarn lang:sync`.
 - After dependencies are installed, run `yarn start` to start app. (If the command code is incorrect, please check the scripts in package.json)
